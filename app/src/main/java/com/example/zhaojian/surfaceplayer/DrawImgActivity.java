@@ -23,6 +23,7 @@ public class DrawImgActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(new DrawImgView(this));
+
     }
 
     /**
